@@ -1,4 +1,6 @@
 # Kat's Lightsabers
+<img src="https://i.imgur.com/ltLPoQp.png" width=500>
+
 Ever wanted to have your own lightsaber in Minecraft? Well, now you can!
 
 Lightsabers are end-game items, designed to be inaccessible until well into your journey. The first thing you'll need to do is get yourself a Kyber crystal, the power source and soul of your saber; to do so, you'll need a Nether Star, along with a handful of quartz and some dye of your chosen color (currently available: blue, green, red, yellow, purple, pink, orange, cyan).
