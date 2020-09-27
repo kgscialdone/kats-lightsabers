@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:command",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "minecraft:carrot_on_a_stick",
+      "functions": [{
+        "function": "minecraft:set_nbt",
+        "tag": "{ctc:{id:'red_lightsaber',from:'katrinakitten:kats_lightsabers',traits:{'item':true,'tool/weapon':true,'lightsaber':true,'lightsaber/red':true}},CustomModelData:6230000,display:{Name:'{\"text\":\"Red Lightsaber\",\"color\":\"aqua\",\"italic\":false}'},kats_lightsabers:{ignited:false,color:'red'}}"
+      }]
+    }]
+  }]
+}

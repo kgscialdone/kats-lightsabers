@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:command",
+  "pools": [
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/all" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:lightsaber/all" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:lightsaber_hilt" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:saber_forge" }] }
+  ]
+}

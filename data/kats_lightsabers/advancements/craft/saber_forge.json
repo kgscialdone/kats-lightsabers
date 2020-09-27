@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "kats_lightsabers:saber_forge"
+      }
+    }
+  },
+  "rewards": {
+    "function": "kats_lightsabers:craft/saber_forge",
+    "loot": [ "kats_lightsabers:saber_forge" ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:smithing",
+  "base": { "item": "minecraft:smithing_table" },
+  "addition": { "item": "minecraft:netherite_ingot" },
+  "result": { "item": "minecraft:knowledge_book" }
+}

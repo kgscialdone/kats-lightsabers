@@ -1,0 +1,6 @@
+{
+  "parent": "kats_lightsabers:item/lightsaber/base",
+  "textures": {
+    "blade": "kats_lightsabers:item/lightsaber/blade_green"
+  }
+}

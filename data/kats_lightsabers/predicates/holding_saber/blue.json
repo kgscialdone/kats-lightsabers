@@ -1,0 +1,14 @@
+[{
+  "condition": "minecraft:reference",
+  "name": "kats_lightsabers:holding_saber"
+},{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "nbt": "{kats_lightsabers:{color:'blue'}}"
+      }
+    }
+  }
+}]

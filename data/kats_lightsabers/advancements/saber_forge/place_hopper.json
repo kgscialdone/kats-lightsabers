@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "placed": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:hopper"
+      }
+    }
+  },
+  "rewards": {
+    "function": "kats_lightsabers:saber_forge/lock_hoppers_nearby"
+  }
+}

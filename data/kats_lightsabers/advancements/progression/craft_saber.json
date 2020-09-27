@@ -1,0 +1,22 @@
+{
+  "display": {
+    "title": "Glowstick Sword",
+    "description": "Craft a completed lightsaber at the Saber Forge",
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:6230001}"
+    },
+    "frame": "goal"
+  },
+  "parent": "kats_lightsabers:progression/obtain_kyber",
+  "criteria": {
+    "obtained": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{
+          "nbt": "{ctc:{from:'katrinakitten:kats_lightsabers',traits:{'lightsaber':true}}}"
+        }]
+      }
+    }
+  }
+}

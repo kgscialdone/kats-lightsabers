@@ -1,0 +1,8 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "type": "minecraft:item",
+    "nbt": "{Item:{tag:{ctc:{id:'lightsaber_hilt',from:'katrinakitten:kats_lightsabers'},CustomModelData:6230004}}}"
+  }
+}

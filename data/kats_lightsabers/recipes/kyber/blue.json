@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dqd",
+    "qsq",
+    "dqd"
+  ],
+  "key": {
+    "s": { "item": "minecraft:nether_star" },
+    "q": { "item": "minecraft:quartz" },
+    "d": { "item": "minecraft:blue_dye" }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

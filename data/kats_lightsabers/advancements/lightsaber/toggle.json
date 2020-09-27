@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "toggle": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [{
+          "condition": "minecraft:reference",
+          "name": "kats_lightsabers:toggling_saber"
+        }]
+      }
+    }
+  },
+  "rewards": {
+    "function": "kats_lightsabers:lightsaber/toggle"
+  }
+}

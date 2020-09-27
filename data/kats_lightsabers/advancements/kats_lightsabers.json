@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "Kat's Lightsabers",
+    "description": "A pack that adds lightsabers.",
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:6230001}"
+    },
+    "announce_to_chat": false,
+    "show_toast": false
+  },
+  "parent": "global:katrinakitten",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

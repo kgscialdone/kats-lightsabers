@@ -1,0 +1,6 @@
+{
+  "parent": "kats_lightsabers:gui/inv_bg",
+  "textures": {
+    "texture": "kats_lightsabers:gui/saber_forge"
+  }
+}

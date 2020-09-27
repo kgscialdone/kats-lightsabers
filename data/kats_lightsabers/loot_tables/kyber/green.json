@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:command",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "minecraft:scute",
+      "functions": [{
+        "function": "minecraft:set_nbt",
+        "tag": "{ctc:{id:'green_kyber',from:'katrinakitten:kats_lightsabers',traits:{'item':true,'gem':true,'gem/kyber':true,'gem/kyber/green':true}},CustomModelData:6230001,display:{Name:'{\"text\":\"Green Kyber Crystal\",\"color\":\"aqua\",\"italic\":false}'},Enchantments:[{}],kats_lightsabers:{color:'green'}}"
+      }]
+    }]
+  }]
+}

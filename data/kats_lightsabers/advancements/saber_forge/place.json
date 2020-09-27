@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "item": {
+          "item": "minecraft:item_frame",
+          "nbt": "{ctc:{id:'saber_forge',from:'katrinakitten:kats_lightsabers'}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "kats_lightsabers:saber_forge/place"
+  }
+}

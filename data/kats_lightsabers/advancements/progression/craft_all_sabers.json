@@ -1,0 +1,46 @@
+{
+  "display": {
+    "title": "Blademaster",
+    "description": "Craft a lightsaber of every available color",
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{CustomModelData:6230005}"
+    },
+    "frame": "challenge"
+  },
+  "parent": "kats_lightsabers:progression/craft_saber",
+  "criteria": {
+    "obtainedBlue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'blue_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedGreen": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'green_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedYellow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'yellow_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedRed": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'red_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedPurple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'purple_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedPink": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'pink_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedOrange": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'orange_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    },
+    "obtainedCyan": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [{ "nbt": "{ctc:{id:'cyan_lightsaber',from:'katrinakitten:kats_lightsabers'}}" }] }
+    }
+  }
+}

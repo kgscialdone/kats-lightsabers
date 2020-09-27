@@ -1,0 +1,18 @@
+{
+  "display": {
+    "title": "KatrinaKitten           ",
+    "description": "Twitter: @KatrinaKitten__\nDiscord: KatrinaKitten#2401",
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner: 'KatrinaKitten'}"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

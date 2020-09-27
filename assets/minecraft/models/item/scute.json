@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/scute"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":6230000}, "model":"kats_lightsabers:item/kyber/blue"},
+    {"predicate": {"custom_model_data":6230001}, "model":"kats_lightsabers:item/kyber/green"},
+    {"predicate": {"custom_model_data":6230002}, "model":"kats_lightsabers:item/kyber/yellow"},
+    {"predicate": {"custom_model_data":6230003}, "model":"kats_lightsabers:item/kyber/red"},
+    {"predicate": {"custom_model_data":6230004}, "model":"kats_lightsabers:item/kyber/purple"},
+    {"predicate": {"custom_model_data":6230005}, "model":"kats_lightsabers:item/kyber/pink"},
+    {"predicate": {"custom_model_data":6230006}, "model":"kats_lightsabers:item/kyber/orange"},
+    {"predicate": {"custom_model_data":6230007}, "model":"kats_lightsabers:item/kyber/cyan"},
+
+    {"predicate": {"custom_model_data":6230100}, "model":"kats_lightsabers:item/lightsaber_hilt"}
+  ]
+}

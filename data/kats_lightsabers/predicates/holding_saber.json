@@ -1,0 +1,12 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "item": "minecraft:carrot_on_a_stick",
+        "nbt": "{ctc:{from:'katrinakitten:kats_lightsabers',traits:{'lightsaber':true}}}"
+      }
+    }
+  }
+}

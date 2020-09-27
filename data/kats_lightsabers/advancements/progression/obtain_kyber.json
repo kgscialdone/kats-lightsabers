@@ -1,0 +1,21 @@
+{
+  "display": {
+    "title": "A New Hope",
+    "description": "Acquire a Kyber crystal",
+    "icon": {
+      "item": "minecraft:scute",
+      "nbt": "{Enchantments:[{}],CustomModelData:6230000}"
+    },
+    "background": "kats_lightsabers:textures/block/saber_forge_bottom.png"
+  },
+  "criteria": {
+    "obtained": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{
+          "nbt": "{ctc:{from:'katrinakitten:kats_lightsabers',traits:{'gem/kyber':true}}}"
+        }]
+      }
+    }
+  }
+}

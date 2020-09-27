@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:command",
+  "pools": [
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/blue" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/green" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/yellow" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/red" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/purple" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/pink" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/orange" }] },
+    { "rolls": 1, "entries": [{ "type": "minecraft:loot_table", "name": "kats_lightsabers:kyber/cyan" }] }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "lightsaber.idle": {
+    "subtitle": "Lightsaber hums",
+    "sounds": [
+      "kats_lightsabers:lightsaber_idle"
+    ]
+  },
+  "lightsaber.ignite": {
+    "subtitle": "Lightsaber ignites",
+    "sounds": [
+      "kats_lightsabers:lightsaber_ignite"
+    ]
+  },
+  "lightsaber.sheathe": {
+    "subtitle": "Lightsaber is sheathed",
+    "sounds": [
+      "kats_lightsabers:lightsaber_sheathe"
+    ]
+  }
+}

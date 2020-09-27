@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:command",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "minecraft:scute",
+      "functions": [{
+        "function": "minecraft:set_nbt",
+        "tag": "{ctc:{id:'lightsaber_hilt',from:'katrinakitten:kats_lightsabers',traits:{'item':true,'lightsaber_hilt':true}},CustomModelData:6230100,display:{Name:'{\"text\":\"Lightsaber Hilt\",\"color\":\"yellow\",\"italic\":false}'}}"
+      }]
+    }]
+  }]
+}

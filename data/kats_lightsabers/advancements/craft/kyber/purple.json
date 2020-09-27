@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "kats_lightsabers:kyber/purple"
+      }
+    }
+  },
+  "rewards": {
+    "function": "kats_lightsabers:craft/kyber",
+    "loot": [ "kats_lightsabers:kyber/purple" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:command",
+  "pools": [{
+    "rolls": 1,
+    "entries": [{
+      "type": "minecraft:item",
+      "name": "minecraft:item_frame",
+      "functions": [{
+        "function": "minecraft:set_nbt",
+        "tag": "{ctc:{id:'saber_forge',from:'katrinakitten:kats_lightsabers',traits:{'block':true}},CustomModelData:6230000,display:{Name:'{\"text\":\"Saber Forge\",\"color\":\"white\",\"italic\":false}'},EntityTag:{Fixed:true,Invisible:true,Tags:['ksbr','ksbr.saber_forge.setup']}}"
+      }]
+    }]
+  }]
+}

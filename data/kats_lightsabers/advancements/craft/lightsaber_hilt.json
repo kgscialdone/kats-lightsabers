@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "crafted": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "kats_lightsabers:lightsaber_hilt"
+      }
+    }
+  },
+  "rewards": {
+    "function": "kats_lightsabers:craft/lightsaber_hilt",
+    "loot": [ "kats_lightsabers:lightsaber_hilt" ]
+  }
+}
