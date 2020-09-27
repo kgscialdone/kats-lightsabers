@@ -32,13 +32,13 @@ This pack comes with special functions for migrating items broken by pack update
 
 If you've updated the pack and notice items from before the update not appearing / behaving as they should, drop the offending items on the ground and run this command to fix them:
 ```mcfunction
-/function kats_lightsabers:migrate
+function kats_lightsabers:migrate
 ```
 
 If you want to uninstall the pack, run the following commands in order (the latter may vary depending on version and if you've renamed the pack's .zip file):
 ```mcfunction
-/function kats_lightsabers:uninstall
-/datapack disable "file/kats-lightsabers-v1.1-data.zip"
+function kats_lightsabers:uninstall
+datapack disable "file/kats-lightsabers-v1.1-data.zip"
 ```
 
 Uninstalling will not remove items from this pack; however, they will no longer function properly (lightsaber sounds will not play, lightsabers will not be able to be turned on / off, crafting recipes will not work, the Saber Forge will not function, etc.)
