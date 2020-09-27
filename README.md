@@ -1,5 +1,5 @@
 # Kat's Lightsabers
-<img src="https://i.imgur.com/ltLPoQp.png" width=500>
+<a href="https://mc-datapacks.github.io/en/"><img src="https://i.imgur.com/ltLPoQp.png" alt="Certified Compatibility and Stamp of Quality; This is a certified datapack that has followed datapack conventions; https://discord.gg/SnJQcfq" width=500></a>
 
 Ever wanted to have your own lightsaber in Minecraft? Well, now you can!
 
